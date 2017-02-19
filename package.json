@@ -4,6 +4,7 @@
   "description": "Normalize to NFD a string using ES6 String.Prototype.Normalize",
   "license": "MIT",
   "repository": "LasaleFamine/string-normalize-es6",
+  "main": "src/index.js",
   "author": {
     "name": "LasaleFamine",
     "email": "info@godev.space",
@@ -16,7 +17,7 @@
     "test": "xo && ava"
   },
   "files": [
-    "index.js"
+    "src/index.js"
   ],
   "keywords": [
     "normalize-string",
