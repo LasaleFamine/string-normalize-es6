@@ -1,6 +1,6 @@
 {
   "name": "string-normalize-es6",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Normalize to NFD a string using ES6 String.Prototype.Normalize",
   "license": "MIT",
   "repository": "LasaleFamine/string-normalize-es6",
