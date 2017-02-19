@@ -1,0 +1,37 @@
+{
+  "name": "string-normalize-es6",
+  "version": "0.1.0",
+  "description": "Normalize to NFD a string using ES6 String.Prototype.Normalize",
+  "license": "MIT",
+  "repository": "LasaleFamine/string-normalize-es6",
+  "author": {
+    "name": "LasaleFamine",
+    "email": "info@godev.space",
+    "url": "godev.space"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "normalize-string",
+    "normalize",
+    "normalization",
+    "string",
+    "NFD",
+    "NFC",
+    "diactritical",
+    "marks",
+    "press"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}

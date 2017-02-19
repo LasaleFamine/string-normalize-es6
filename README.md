@@ -37,7 +37,8 @@ String you want to normalize to NFD.
 ## Contribute
 
 The module is based on [this answer on Stackoverflow](http://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript/37511463#answer-37511463).
-I'm not completely sure the this is the correct implementation and maybe we can also specify the ***normalization*** type.
+I'm not completely sure the this is the correct implementation and maybe we can also specify the ***normalization*** type as argument.
+PR welcome! :rocket:
 
 
 ### Test
